@@ -9,7 +9,7 @@
     "photo_before": "https://kuntsevo-gazeta.ru/files/data/user/AiF/red4/files/2020/2024.08.23-1724419951.1766_img-20240823-122008-609.jpg",
     "photo_after": "https://www.mos.ru/upload/newsfeed/articles/1ba7e5c72deacac4c3b3deb0114b16c2/photo_2023-11-15_16-32-19.jpg",
     "audio_url": null,
-    "icon_class": "sports"
+    "icon_class": "sports",
   },
   {
     "id": 2,
@@ -21,6 +21,6 @@
     "photo_before": "https://photos.wikimapia.org/p/00/07/39/66/48_big.jpg",
     "photo_after": "https://cs14.pikabu.ru/post_img/big/2022/05/06/10/1651857976119523123.jpg",
     "audio_url": null,
-    "icon_class": "park"
+    "icon_class": "park",
   }
 ]
